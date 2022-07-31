@@ -1,0 +1,12 @@
+body{
+    background-color: #313438;
+}
+
+#soon{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
